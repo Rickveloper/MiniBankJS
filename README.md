@@ -20,3 +20,37 @@ Refreshing the page resets everything.
 1. Clone this repo:
    ```bash
    git clone https://github.com/YOUR_USERNAME/minibankjs.git
+```
+
+2.	Open index.html in your browser.
+	3.	Start banking!
+
+⸻
+
+📚 Learning Goals
+
+This project helps you practice:
+	•	Handling user input in JavaScript
+	•	Managing data in objects
+	•	Updating the DOM with events
+	•	Structuring small, interactive apps
+
+⸻
+
+🌐 Live Demo
+
+If GitHub Pages is enabled, visit:
+https://YOUR_USERNAME.github.io/minibankjs
+
+⸻
+
+🛠️ Tech
+	•	HTML
+	•	CSS
+	•	JavaScript
+
+⸻
+
+📝 License
+
+MIT License — free to use, modify, and share.
